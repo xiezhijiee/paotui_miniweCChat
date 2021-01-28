@@ -1,0 +1,21 @@
+{
+  "name": "runErrands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.aliyun.com:Ringleader/runErrands.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "uview-ui": "^1.8.3",
+    "vuex": "^3.6.2"
+  }
+}
